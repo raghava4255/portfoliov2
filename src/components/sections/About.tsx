@@ -65,7 +65,7 @@ export const About: React.FC = () => {
                 <Briefcase className="w-5 h-5 text-cyan-400" /> Professional Summary
               </h3>
               <p className="text-slate-300 text-xs sm:text-sm leading-relaxed">
-                Aspiring Software Developer with hands-on experience in .NET Web API, React (Vite), MS SQL Server, Docker, Git, and modern web application development. Currently working on AMS (Application Management System), contributing to development, deployment, testing, and maintenance. Experienced in containerized application deployment using Docker and building scalable full stack applications with React frontends and .NET backends.
+                Aspiring Software Developer with hands-on experience in ASP.NET Core Web API, Entity Framework Core, MS SQL Server, Docker, Docker Compose, Nginx, Git, and RESTful API development. Experienced in developing secure applications using JWT Authentication and Role-Based Authorization, building scalable web applications, and deploying containerized solutions. Familiar with CI/CD fundamentals, Docker, Kubernetes, Linux, and AWS concepts, with a strong interest in Cloud and DevOps technologies.
               </p>
             </div>
 

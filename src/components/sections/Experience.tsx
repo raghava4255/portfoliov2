@@ -12,15 +12,18 @@ interface ExperienceItem {
 
 const EXPERIENCES: ExperienceItem[] = [
   {
-    role: 'Software Developer Trainee',
+    role: 'Junior Developer',
     company: 'K Quality Soft Pvt. Ltd.',
-    location: 'Andhra Pradesh, India',
+    location: 'Tanuku, Andhra Pradesh',
     duration: 'Current',
     highlights: [
-      'Engineered and enhanced modules, APIs, validations, and core business workflows for AMS (Application Management System) using React (Vite), .NET Web API, and MS SQL Server.',
-      'Containerized application services using Docker for consistent environment setups and easy deployments.',
-      'Participated in end-to-end testing, hot-fixing bugs, database synchronization, and regular production support activities.',
-      'Collaborated closely with cross-functional team members for feature implementations, status reports, and deployment releases.'
+      'Developing an Attendance Management System (AMS) using ASP.NET Core Web API and Microsoft SQL Server.',
+      'Building and maintaining RESTful APIs, attendance modules, validations, and business workflows.',
+      'Implementing JWT Authentication and Role-Based Authorization for secure access control.',
+      'Designing and optimizing SQL Server databases using Entity Framework Core.',
+      'Deploying applications using Docker, Docker Compose, and Nginx in Linux environments.',
+      'Performing testing, debugging, production support, and database integration to improve application reliability.',
+      'Collaborating with cross-functional teams in Agile development, code reviews, and release activities.'
     ]
   },
   {

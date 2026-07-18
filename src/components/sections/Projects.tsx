@@ -13,15 +13,15 @@ interface Project {
 
 const PROJECTS: Project[] = [
   {
-    title: 'Application Management System (AMS)',
-    description: 'A full-stack enterprise business application supporting multiple modules. Designed REST APIs, integrated MS SQL Server for database logic, and containerized the system with Docker.',
+    title: 'Attendance Management System (AMS)',
+    description: 'An enterprise business application supporting multiple modules. Designed REST APIs, integrated MS SQL Server for database logic, and containerized the system with Docker.',
     image: '/orchestra_aks.png',
-    tags: ['React (Vite)', 'ASP.NET Core', 'Web API', 'MS SQL Server', 'Docker', 'REST API'],
+    tags: ['ASP.NET Core', 'Web API', 'MS SQL Server', 'Docker', 'REST API'],
     githubUrl: 'https://github.com',
     liveUrl: 'https://github.com',
   },
   {
-    title: 'Student Database System',
+    title: 'Student Database Management System',
     description: 'A CRUD-based web application for student record management. Implemented server-side validations using Data Annotations, database mappings via EF Core, and responsive Razor views.',
     image: '/securesync_api.png',
     tags: ['ASP.NET MVC', 'Entity Framework Core', 'MS SQL Server', 'Bootstrap', 'HTML5', 'CSS3'],
@@ -58,7 +58,7 @@ export const Projects: React.FC = () => {
           </h2>
           <div className="w-12 h-1 bg-gradient-to-r from-cyan-400 to-purple-500 mx-auto mt-4 rounded-full"></div>
           <p className="text-slate-400 text-xs sm:text-sm max-w-lg mx-auto mt-4 leading-relaxed">
-            A handpicked selection of production-grade cloud, full stack C#, and DevOps automation projects I have designed.
+            A handpicked selection of production-grade cloud, .NET C#, and DevOps automation projects I have designed.
           </p>
         </div>
 

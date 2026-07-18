@@ -35,13 +35,13 @@ export const Hero: React.FC = () => {
               </span>
             </h1>
             <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold font-display text-slate-300">
-              .NET Full Stack & DevOps Engineer
+              .NET & DevOps Engineer
             </h2>
           </div>
 
           {/* Bio */}
           <p className="text-slate-400 text-sm sm:text-base max-w-xl leading-relaxed">
-            I build scalable full stack enterprise applications using React frontends, C# .NET Web API backends, and MS SQL Server. Passionate about automating deployments with Docker, exploring CI/CD pipelines, and cloud engineering.
+            I build scalable backend enterprise applications using C# .NET Web API and MS SQL Server. Passionate about automating deployments with Docker, exploring CI/CD pipelines, and cloud engineering.
           </p>
 
           {/* Action buttons */}
